@@ -58,9 +58,9 @@ int main()
    }
 
     if (HaveGuesses){
-        cout<<"You win!!";
+        cout<<"You won!!";
    } else {
-        cout<<"You lose!!";
+        cout<<"You lost!!";
    }
 
 
